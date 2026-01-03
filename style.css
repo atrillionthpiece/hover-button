@@ -39,11 +39,11 @@ button::before{
 }
 button:hover{
     z-index: 0;
-    box-shadow: -50px 0px 100px rgba(255, 0, 221, 0.762), 50px 0px 100px rgba(0, 0, 255, 0.741);
+    box-shadow: -50px 0px 100px rgba(255, 0, 221, 0.962), 50px 0px 100px rgba(0, 0, 255, 0.941);
 }
 button:active{
     z-index: 0;
-    box-shadow: -50px 0px 100px rgba(255, 0, 221, 0.762), 50px 0px 100px rgba(0, 0, 255, 0.741);
+    box-shadow: -50px 0px 100px rgba(255, 0, 221, 0.962), 50px 0px 100px rgba(0, 0, 255, 0.941);
 }
 @keyframes gradient{
     0%{
@@ -57,3 +57,4 @@ button:active{
     }
 
 }
+
